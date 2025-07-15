@@ -28,7 +28,7 @@ Este projeto é o registro completo da meu aprendizado do mundo do back-end com 
 
 ## 🚀 Progresso
 
-- [x] Fundamentos da linguagem
+- [ ] Fundamentos da linguagem
 - [ ] Orientação a Objetos avançada
 - [ ] Banco de dados com Entity Framework
 - [ ] ASP.NET Core API REST
